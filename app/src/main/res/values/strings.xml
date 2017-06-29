@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">IReader</string>
+    <string name="bookshelf">书架</string>
+    <string name="net">网文</string>
+    <string name="publis">出版</string>
+    <string name="welfare">福利</string>
 </resources>
